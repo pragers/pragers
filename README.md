@@ -1,7 +1,7 @@
 # Stats
 ![pragers's Stats](https://github-readme-stats.vercel.app/api?username=pragers&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&card_width=300)
 
-![pragers's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragers&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![pragers's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragers&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 
 # 🏆 My Trophies 🏆
